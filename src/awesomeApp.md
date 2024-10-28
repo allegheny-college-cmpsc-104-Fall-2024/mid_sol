@@ -1,6 +1,6 @@
 # Awesome App - Midterm Exam - Document Engineering 104
 
-[![PRs Welcome](https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/PRs-welcome-green.svg)
+![PRs Welcome](https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/PRs-welcome-green.svg)
 
 <img alt="Logo" align="right" src="https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/logo.svg" width="20%" />
 
