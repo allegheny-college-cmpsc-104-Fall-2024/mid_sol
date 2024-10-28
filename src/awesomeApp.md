@@ -36,9 +36,7 @@ If you've previously installed `create-awesome-app` globally via `npm install -g
 Then open <mark>*http://localhost:3000*</mark> to see your app.<br> 
 When you’re ready to deploy to production, create a minified bundle with `npm run build`.
 
-<p align='center'>
-<img src='https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/screencast-error.svg' width='600' alt='npm start'>
-</p>
+![Screencast](https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/screencast-error.svg)
 
 ### Watch a Quick Tutorial
 
@@ -132,9 +130,7 @@ Open <mark>*http://localhost:3000*</mark> to view it in the browser.
 The page will automatically reload if you make changes to the code.<br>
 You will see the build errors and lint warnings in the console.
 
-<p align='center'>
-<img src='https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/screencast.svg' width='600' alt='Build errors'>
-</p>
+![Screencast2](https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/screencast.svg)
 
 ### `npm test` or `yarn test`
 
