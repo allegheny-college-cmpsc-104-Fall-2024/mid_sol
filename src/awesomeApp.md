@@ -1,11 +1,8 @@
 # Awesome App - Midterm Exam - Document Engineering 104
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/allegheny-college-cmpsc-104-Fall-2024/midterm/blob/main/README.md)
+[![PRs Welcome](https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/PRs-welcome-green.svg)
 
-<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
-
-![logo](https://raw.githubusercontent.com/allegheny-college-cmpsc-104-Fall-2024/midterm/main/graphics/PRs-welcome-green.svg)
-
+<img alt="Logo" align="right" src="https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/logo.svg" width="20%" />
 
 Create awesome apps with no build configuration.
 
@@ -40,7 +37,7 @@ Then open <mark>*http://localhost:3000*</mark> to see your app.<br>
 When you’re ready to deploy to production, create a minified bundle with `npm run build`.
 
 <p align='center'>
-<img src='https://cdn.jsdelivr.net/gh/facebook/create-react-app@27b42ac7efa018f2541153ab30d63180f5fa39e0/screencast.svg' width='600' alt='npm start'>
+<img src='https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/screencast-error.svg' width='600' alt='npm start'>
 </p>
 
 ### Watch a Quick Tutorial
@@ -134,7 +131,7 @@ The page will automatically reload if you make changes to the code.<br>
 You will see the build errors and lint warnings in the console.
 
 <p align='center'>
-<img src='https://cdn.jsdelivr.net/gh/marionebl/create-react-app@9f6282671c54f0874afd37a72f6689727b562498/screencast-error.svg' width='600' alt='Build errors'>
+<img src='https://github.com/allegheny-college-cmpsc-104-Fall-2024/mid_sol/blob/main/graphics/screencast.svg' width='600' alt='Build errors'>
 </p>
 
 ### `npm test` or `yarn test`
